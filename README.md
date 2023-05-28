@@ -1,2 +1,2 @@
-# git-_test
+# git_test
 Odin Project git lessons
